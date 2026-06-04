@@ -1,0 +1,4 @@
+repository "Street Sign Stealing Simulator 2026-06-04_09-01-10/Street Sign Stealing Simulator@9072384725120@cloud"
+  path "/"
+    br "/main"
+    co "/main"
